@@ -216,5 +216,5 @@ public class ConditionExample { // 기능 정의용 클래스
 		System.out.println(result);
 		
 	}
-	
+
 }

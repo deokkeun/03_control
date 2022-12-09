@@ -12,7 +12,13 @@ public class ConditionRun { // 실행용 클래스
 		//condition.ex4();
 		//condition.ex5();
 		//condition.ex6();
-		condition.ex61();
+		//condition.ex61();
+		
+		SwitchExample switchEx = new SwitchExample();
+		
+		//switchEx.ex1();
+		//switchEx.ex2();
+	
 	}
 
 }
